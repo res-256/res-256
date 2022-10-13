@@ -1,15 +1,15 @@
 
 <h1 align="center"> Hello! 👋  I'm <a href="https://github.com/Chocolate1999">Adam</a>!</h1>
-<h1 align="center">a 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h1>
+<h1 align="center">临床医学生一枚</h1>
 
 
 <p align="center">
-  <strong><a href="https://mp.weixin.qq.com/s?__biz=MzI0MzkxMDU1Ng==&mid=2247485915&idx=1&sn=a28c74a4edb5a3657dcb9f60ae9478cf&chksm=e9649b28de13123e916fae783ec2fd1f4c82dc1f300b80f7d4eda61488853801fdd458c7cda7&token=1308321956&lang=zh_CN#rd">公众号：他姓何i</a></strong> |
-  <strong><a href="https://chocolate.blog.csdn.net/">CSDN</a></strong> |
-  <strong><a href="https://space.bilibili.com/351534170">B站</a></strong> |
-  <strong><a href="https://juejin.im/user/2981531267112520">掘金</a></strong>  |
-  <strong><a href="https://yangchaoyi.vip/">前端博客网站</a></strong>   |
-  <strong><a href="https://blog.yangchaoyi.vip/">个人主页</a></strong>  
+  <strong><a href="https://mp.weixin.qq.com/s?__biz=MzI0MzkxMDU1Ng==&mid=2247485915&idx=1&sn=a28c74a4edb5a3657dcb9f60ae9478cf&chksm=e9649b28de13123e916fae783ec2fd1f4c82dc1f300b80f7d4eda61488853801fdd458c7cda7&token=1308321956&lang=zh_CN#rd">（这些都是借鉴小狮子的，还没改，下次一定）公众号：他姓何i</a></strong> |
+  <strong><a href="https://chocolate.blog.csdn.net/">小狮子的CSDN</a></strong> |
+  <strong><a href="https://space.bilibili.com/351534170">小狮子的B站</a></strong> |
+  <strong><a href="https://juejin.im/user/2981531267112520">小狮子的掘金</a></strong>  |
+  <strong><a href="https://yangchaoyi.vip/">还是小狮子的</a></strong>   |
+  <strong><a href="https://z555.icu/">这是我的</a></strong>  
 </p>
 
 
@@ -18,7 +18,7 @@
 
 我是 Adam，一个临床医学生，在这里分享知识与日常总结。
 
-博主 22 届本科毕业，可以称呼我 Adam，在这里分享知识与日常总结。
+系 22 届本科毕业，可以称呼我 Adam，或者叫我涛哥。
 
 
 <a href="https://space.bilibili.com/351534170"><img src="https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=bilibili%20fans&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D351534170" /></a><a href="https://github.com/Chocolate1999"><img src="https://img.shields.io/github/stars/Chocolate1999?color=faf408&label=github%20stars&logo=github" /></a><br/>
@@ -32,7 +32,7 @@
 
 <a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Chocolate1999/count.svg" /></a>
 
-##  [Welcome To 超逸の博客](https://yangchaoyi.vip/)
+##  [Welcome To 小狮子的博客](https://yangchaoyi.vip/)
 <a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 - 👨🏻‍💻  [小狮子前端笔记仓库](https://github.com/Chocolate1999/Front-end-learning-to-organize-notes)
 - 👩🏻‍💻  [leetcode-javascript](https://github.com/Chocolate1999/leetcode-javascript)
@@ -46,7 +46,7 @@
 
 
 
-座右铭：学如逆水行舟，不进则退！
+座右铭：苟利国家生死以，岂因祸福避趋之
 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
